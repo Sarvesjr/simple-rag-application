@@ -1,0 +1,97 @@
+J R SARVES SRIRANGAN
+
+AI Engineer / Full Stack Developer
+
+Chennai, India • 9659639831 • sarvessrirangan8@gmail.com • LinkedIn • GitHub
+
+PROFESSIONAL SUMMARY
+Computer Science student specializing in Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development, with
+hands-on experience developing AI applications, healthcare software, computer vision systems, and data-driven solutions. Skilled in
+Python, JavaScript, React.js, Node.js, Express.js, SQL, Machine Learning, Computer Vision, and REST API development, with
+experience delivering production-ready web applications and database-driven systems. Also freelances as a developer, building
+websites, software applications, and Flutter-based mobile applications. Actively strengthening core problem-solving skills through
+consistent practice of Data Structures & Algorithms on LeetCode.
+
+TECHNICAL SKILLS
+Languages: Python, Java, C, C++
+Web Development: HTML, CSS, JavaScript, React.js, Node.js, Express.js, REST APIs, JSON, CRUD Operations, Authentication,
+Responsive Web Design, Flutter
+Backend & Databases: SQL, MySQL, PostgreSQL, MongoDB, Database Design, Database Administration, API Integration, Software
+Architecture
+AI & Data Analytics: Machine Learning, Deep Learning (CNNs, RNNs), Computer Vision (OpenCV), Scikit-learn, TensorFlow, PyTorch,
+Generative AI, LLM Integration, Prompt Engineering, Pandas, NumPy, Advanced Excel, Power BI, Tableau, Matplotlib, Seaborn, Data
+Cleaning, EDA, Statistical Analysis, A/B Testing, Data Storytelling
+Blockchain: MetaMask, Web3, ERC-8004, x402
+Tools & Cloud: Git, Git Workflow, GitHub, Linux, VS Code, Jupyter Notebook, Android Studio, Streamlit, Vercel
+
+PROFESSIONAL EXPERIENCE
+Full Stack Developer & Database Administrator — Annavi Trust Jun 2026 – Aug 2026
+Freelance · Chennai, India
+• Developed a clinic management platform comprising 3+ integrated modules and 20+ database tables, used to digitize patient
+records, inventory management, and billing workflows and replace manual record-keeping for day-to-day operations.
+• Built patient registration, visit history, prescription tracking, and searchable EMR workflows, along with inventory management
+for stock procurement, movement, and expiry tracking.
+• Developed billing workflows integrating consultation charges and pharmacy sales with automatic inventory updates.
+• Designed and normalized a relational MySQL database consisting of multiple interconnected tables with foreign key constraints,
+indexing, and optimized SQL queries for efficient data retrieval.
+• Developed RESTful APIs supporting CRUD operations for patients, inventory, billing records, and administrative workflows using
+Node.js and Express.js, integrated with a responsive React.js frontend.
+• Deployed the production application and website while maintaining application availability and database administration.
+Data Scientist — Atsuya Technologies Jun 2026 (1 Month)
+Internship · Chennai, Tamil Nadu, India · On-site
+• Worked on predictive maintenance, fault diagnostics, and performance analytics for 1000+ HVAC systems using Machine
+Learning and Data Science, developing data-driven methods to identify refrigerant faults, short cycling, icing, and other
+operational anomalies.
+• Applied OpenCV, YOLO, and digital image processing techniques to an industrial oil seed inspection project, building a custom
+filtering pipeline to improve defect detection in low-texture, poorly-imaged regions.
+• Debugged and resolved a production race condition in the AONE-Eye occupancy detection task scheduler, improving pipeline
+startup reliability.
+
+EDUCATION
+B.Tech — Computer Science and Engineering Expected: 2028
+SRM Institute of Science and Technology • CGPA: 9.74
+Foundation Degree — Data Science and Programming Dec 2025
+Indian Institute of Technology, Madras (IITM) • Chennai, India
+
+TECHNICAL PROJECTS
+Medical Report Analysis System (Hackathon Project)
+React.js, Node.js, LLM, JWT Authentication, MetaMask, ERC-8004, x402
+GitHub | Live Demo | Video Demo
+• Built a full-stack AI application supporting PDF and image medical report analysis using Groq LLM with OCR-based document
+parsing and conversational querying.
+• Developed an AI-powered conversational assistant that answers personalized questions based on uploaded medical reports
+using contextual memory and prompt engineering.
+• Engineered a pipeline to read medical reports from PDF and image inputs, applying OCR and vision-based workflows to extract
+and structure report data.
+• Implemented JWT-based authentication, MetaMask login, ERC-8004 AI agent identity, and x402 blockchain payment workflow
+via secure REST APIs for decentralized AI service access.
+• Deployed the application on Vercel with CI/CD using GitHub, pairing a responsive React UI with a Node.js backend to deliver an
+end-to-end AI-powered healthcare experience.
+AI Car Insurance Claim Analyzer
+Python, Streamlit, OpenCV, Scikit-learn, Random Forest, Computer Vision
+GitHub | Live Demo
+• Built a machine learning-based insurance claim prediction system using Random Forest models for claim approval classification
+and claim amount estimation.
+• Developed an OpenCV image processing pipeline for vehicle damage detection using contour analysis, edge detection,
+thresholding, and severity classification.
+• Developed and deployed an interactive Streamlit application supporting real-time image upload, vehicle damage assessment,
+and ML-powered insurance claim prediction.
+• Implemented business logic for repair cost estimation, depreciation, insurance coverage, deductibles, and customer liability
+calculations.
+• Generated and utilized synthetic insurance datasets with Pandas and NumPy for model training, feature engineering, and
+prediction.
+
+CERTIFICATIONS
+• NPTEL — Data Structures and Algorithms
+• SIDH, Reliance Foundation Skilling Academy — Artificial Intelligence
+• SIDH, Reliance Foundation Skilling Academy — IoT Network Specialist
+• Deloitte Australia — Data Analytics Job Simulation (Forage)
+• Quantium — Data Analytics Job Simulation (Forage)
+
+ACHIEVEMENTS
+• Solved 120+ LeetCode problems across Data Structures and Algorithms using Python and Java View Profile
+• Competitive Programming Lead in Logic Play SRM Institute technical club
+• Secured 3rd Place in hackathon hosted by SSN College of Engineering, collaborating with a team to develop an innovative
+solution through technical problem-solving and teamwork.
+• Selected for the live evaluation round at Amypo Hackathon, placing in the top 200 of 1000+ registered teams
+• Earned 5 MongoDB Skill Badges from MongoDB University, including RAG, AI agents, AI data strategy, and vector search
